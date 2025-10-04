@@ -1,5 +1,5 @@
 ## Hi, I'm Aminul Hasan 👋
-[<img src='[https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true](https://media.licdn.com/dms/image/v2/D5616AQErBGwxJDhHcA/profile-displaybackgroundimage-shrink_350_1400/B56ZYuuhfxHEAY-/0/1744540670855?e=1762387200&v=beta&t=Xc-HhWnuPQfiOJSnPXzIOI94mH32yOyAVjjW5e3THJk)' alt='Aminul Hasan'>](https://github.com/aminulhasan142/)
+[<img src='https://github.com/aminulhasan142/aminulhasan142/blob/main/Img/aminulhasan.jpeg?raw=true' alt='Aminul Hasan'>](https://github.com/aminulhasan142/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
