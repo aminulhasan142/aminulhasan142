@@ -44,14 +44,21 @@ Currently, I'm improving my skills in **React and Java** while continuing to bui
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aminulhasan142&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhasan142&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aminulhasan142&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhasan142&layout=compact&hide_border=true&langs_count=6"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aminulhasan142&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=aminulhasan142&hide_border=true"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
