@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  👑 Web Developer &nbsp; • &nbsp;
-  💻 Love writing code &nbsp; • &nbsp;
-  🎨 Clean UI & Responsive Design &nbsp; • &nbsp;
+  👑 Web Developer <br>
+  💻 Love writing code <br>
+  🎨 Clean UI & Responsive Design <br>
   ☕ Code + Coffee
 </p>
 
@@ -44,22 +44,16 @@ Currently, I'm improving my skills in **React and Java** while continuing to bui
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aminulhasan142&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhasan142&layout=compact&hide_border=true&langs_count=6"
-    height="165"
-  />
+  <a href="https://github.com/aminulhasan142">
+    <img src="https://img.shields.io/github/followers/aminulhasan142?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/aminulhasan142?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aminulhasan142?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/aminulhasan142">
+    <img src="https://komarev.com/ghpvc/?username=aminulhasan142&style=for-the-badge&color=blue" />
+  </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=aminulhasan142&hide_border=true"
-  />
-</p>
----
 
 ## 🌐 Connect With Me
 
